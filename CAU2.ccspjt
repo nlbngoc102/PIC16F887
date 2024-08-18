@@ -1,0 +1,21 @@
+[PROJECT]
+Target=CAU2.hex
+Processor_Text=PIC16F887
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=CAU2.c
+[Directories]
+Include=C:\Program Files (x86)\Common Files\PICC\Devices\;C:\Program Files (x86)\Common Files\PICC\Drivers\
+[CAU2.c]
+Type=4
+[mru-list]
+1=CAU2.c
+[Opened Files]
+1=CAU3_VDKB.c
+2=CAU3_VDKA.c
+3=CAU2.c
+4=
+[Units]
+Count=1
+1=CAU2 (main)
